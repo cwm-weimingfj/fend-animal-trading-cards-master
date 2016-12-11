@@ -1,0 +1,34 @@
+/* add your CSS here */
+body {
+    font-family: serif;
+    width: 310px;
+}
+
+h3 {
+  font-size: 1.5em;
+}
+
+.fact {
+    font-style: italic;
+}
+
+ul {
+    padding-left: 0;
+}
+
+li {
+    list-style: none;
+}
+
+li span {
+    font-weight: bold;
+}
+
+.pic {
+    width: 300px;
+}
+
+.name, .pic, .info {
+    border: 1px solid #ccc;
+    padding: 5px;
+}
